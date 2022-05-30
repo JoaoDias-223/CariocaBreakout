@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "JumpToMid.png",
+	"frame": {"x":0,"y":0,"w":724,"h":724},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":724,"h":724},
+	"sourceSize": {"w":724,"h":724},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MidToFinal.png",
+	"frame": {"x":724,"y":0,"w":724,"h":724},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":724,"h":724},
+	"sourceSize": {"w":724,"h":724},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "InitialToJump01.png",
+	"frame": {"x":0,"y":724,"w":724,"h":724},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":724,"h":724},
+	"sourceSize": {"w":724,"h":724},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "InitialToJump02.png",
+	"frame": {"x":724,"y":724,"w":724,"h":724},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":724,"h":724},
+	"sourceSize": {"w":724,"h":724},
+	"pivot": {"x":0.5,"y":0.5}
+}]
+}
