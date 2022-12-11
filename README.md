@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/CariocaBreakout">
-    <img src="https://github.com/antuniooh/CariocaBreakout/blob/main/.github/projeto.png" alt="Logo" width="550">
+    <img src="https://github.com/antuniooh/CariocaBreakout/blob/main/.github/project.png" alt="Logo" width="550">
   </a>
 </p>
 
