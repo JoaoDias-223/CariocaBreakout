@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C#-purple?style=for-the-badge&logo=c##&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img alt="Game" src="https://img.shields.io/badge/Game-orange?style=for-the-badge&logo=game&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
